@@ -126,3 +126,32 @@ Ex. odd powers (y=x cubed = the  disco function), sin(x)
 
 **Definition**. f is increasing on interval [a, b] if f(x1) > f(x2) whenever x1 > x2 <=> "going up".
 
+**Ex.**
+
+slope = this the change of y over (/) the change of x.
+
+pt-slope formula: y-y1 = m (x-x1)
+
+y =|x| - V or a cusp.
+
+y = x^3 (x cubed) - disco function, it goes low to high.
+
+y = sin x (сайн of x) - sine goes right through the origin, it has a height of 1 & -1 (so it oscillates). Oscillates goes on and on forever and ever D: R, R: [-1, 1]
+
+**Function composition**
+
+You given 2 funcs. You can add them & subtract them, divide as long as the bottom is not zero.
+
+Func. compos. is something that you cannot do with numbers.
+
+**Def**. f * g ("f composed with g" = I take one function and I plug it into another).
+
+(f * g)(x) = f(g(x))
+
+When you're evaluating these things, you read them right to left.
+
+This operation is not commutative! f(g(x)) ≠ g(f(x)). Commutative means order doesn't matter.
+
+$$\sqrt(\sqrt(x)) = x^{1/4}$$
+
+so this becomes x to the one forth.
